@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GatsbeesAdventure",
+			"Path": "..\\Source\\GatsbeesAdventure.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GatsbeesAdventureEditor",
+			"Path": "..\\Source\\GatsbeesAdventureEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

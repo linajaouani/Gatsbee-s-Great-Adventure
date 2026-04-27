@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\lanno\\OneDrive\\Documents\\Unreal Projects\\GatsbeesAdventure\\Source\\GatsbeesAdventure\\GatsbeesAdventure.Build.cs",
+		"C:\\Users\\lanno\\OneDrive\\Documents\\Unreal Projects\\GatsbeesAdventure\\Source\\GatsbeesAdventure.Target.cs",
+		"C:\\Users\\lanno\\OneDrive\\Documents\\Unreal Projects\\GatsbeesAdventure\\Source\\GatsbeesAdventureEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}

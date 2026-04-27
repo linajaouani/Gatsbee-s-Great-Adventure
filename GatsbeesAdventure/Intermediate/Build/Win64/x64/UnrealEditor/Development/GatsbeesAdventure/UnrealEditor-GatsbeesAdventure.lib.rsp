@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GatsbeesAdventure.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/lanno/OneDrive/Documents/Unreal Projects/GatsbeesAdventure/Intermediate/Build/Win64/x64/GatsbeesAdventureEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/lanno/OneDrive/Documents/Unreal Projects/GatsbeesAdventure/Intermediate/Build/Win64/x64/UnrealEditor/Development/GatsbeesAdventure/GatsbeesAdventure.cpp.obj"
+"C:/Users/lanno/OneDrive/Documents/Unreal Projects/GatsbeesAdventure/Intermediate/Build/Win64/x64/UnrealEditor/Development/GatsbeesAdventure/PerModuleInline.gen.cpp.obj"
+"C:/Users/lanno/OneDrive/Documents/Unreal Projects/GatsbeesAdventure/Intermediate/Build/Win64/x64/UnrealEditor/Development/GatsbeesAdventure/Default.rc2.res"
+/OUT:"C:/Users/lanno/OneDrive/Documents/Unreal Projects/GatsbeesAdventure/Intermediate/Build/Win64/x64/UnrealEditor/Development/GatsbeesAdventure/UnrealEditor-GatsbeesAdventure.lib"

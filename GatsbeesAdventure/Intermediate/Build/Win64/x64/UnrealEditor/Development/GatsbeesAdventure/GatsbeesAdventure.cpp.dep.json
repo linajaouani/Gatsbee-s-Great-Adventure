@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lanno\\onedrive\\documents\\unreal projects\\gatsbeesadventure\\source\\gatsbeesadventure\\gatsbeesadventure.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lanno\\onedrive\\documents\\unreal projects\\gatsbeesadventure\\intermediate\\build\\win64\\x64\\gatsbeesadventureeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lanno\\onedrive\\documents\\unreal projects\\gatsbeesadventure\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gatsbeesadventure\\definitions.gatsbeesadventure.h",
+            "c:\\users\\lanno\\onedrive\\documents\\unreal projects\\gatsbeesadventure\\source\\gatsbeesadventure\\gatsbeesadventure.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

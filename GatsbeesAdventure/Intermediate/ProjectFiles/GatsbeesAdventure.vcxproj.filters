@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\GatsbeesAdventure.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GatsbeesAdventure.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GatsbeesAdventureEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\GatsbeesAdventure">
+      <UniqueIdentifier>{EC7003D8-01F2-30B5-A470-3F7081225754}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GatsbeesAdventure\GatsbeesAdventure.Build.cs">
+      <Filter>Source\GatsbeesAdventure</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GatsbeesAdventure\GatsbeesAdventure.cpp">
+      <Filter>Source\GatsbeesAdventure</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GatsbeesAdventure\GatsbeesAdventure.h">
+      <Filter>Source\GatsbeesAdventure</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
